@@ -47,7 +47,13 @@ The rules and preferences that tell AI how to show up every time. Copy the conte
 
 ### 5. References (optional but useful)
 
-Having your references ready in the project saves time when things move fast.
+Having your references ready in the project saves time when things move fast. When you're in the chat for a job and they ask for references, just say:
+
+- "They requested my references, create a formatted PDF"
+- "I need my references for this application, give me a copy-paste version"
+- "Format my references for this role with their relevant context"
+
+AI already knows the role, so it can tailor which details to highlight for each reference. No hunting through old files or reformatting on the fly.
 
 ### 6. LinkedIn profile (optional)
 
