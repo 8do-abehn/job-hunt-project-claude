@@ -74,6 +74,10 @@ Avoid: Managed, Oversaw, Collaborated, Focused on, Responsible for, Helped with
 - Use parentheticals to tie past experience to the target role when the connection isn't obvious (e.g., "Led hybrid cloud migration (relevant to enterprise SaaS infrastructure)")
 - Resumes must fit on one page. If it's running long, cut the weakest bullets rather than shrinking the font or cramming it in.
 - Cover letters must fit on one page. Four paragraphs max. If you can't make the case in one page, tighten the writing.
+- ATS friendly: avoid tables, columns, graphics, text boxes, and headers/footers. Most applicant tracking systems choke on fancy formatting. Keep it simple and parseable.
+- Contact info at the top of every resume: name, phone, email, LinkedIn. Don't make recruiters hunt for it.
+- Use a consistent date format throughout (e.g., "Jan 2020 to Mar 2023"). Pick one style and stick with it.
+- Proofread everything for typos and grammar before presenting final output. A single typo on a resume can get it tossed.
 
 ## The Connection Test
 
