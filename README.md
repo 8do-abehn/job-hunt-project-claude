@@ -178,6 +178,8 @@ Because every opportunity follows the same structure, AI can generate reports on
 
 This turns gut feelings into concrete data.
 
+The more detail you capture along the way (debriefs, status updates, interview notes, feedback), the richer the reports get. At the end of a search you can generate a comprehensive final report with real stats on response rates, stage conversion, which industries responded, what skills kept coming up, and how your approach evolved. It's a satisfying way to close out a search and useful reference material if you ever go through it again.
+
 ### Unemployment Work Search Reports
 
 If you're collecting unemployment benefits, most states require you to document your job search activity for weekly or biweekly certification. Instead of tracking this separately, just ask AI to generate a work search report for the last 7 days. It pulls from your conversations in the project and outputs a table like:
