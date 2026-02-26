@@ -71,9 +71,9 @@ Create a `~/job_hunt` folder (or wherever works for you). Each opportunity gets 
 
 ```
 ~/job_hunt/
-  Acme_SrEngineer_Research/
+  Acme_SrDevOpsEngineer_Research/
   BigCo_DevOpsLead_Applied/
-  StartupX_PlatformEng_Interview/
+  StartupX_PlatformEngineer_Interview/
 ```
 
 Naming convention: `Company_Role_Stage`
