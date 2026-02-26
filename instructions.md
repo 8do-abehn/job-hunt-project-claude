@@ -79,6 +79,20 @@ Avoid: Managed, Oversaw, Collaborated, Focused on, Responsible for, Helped with
 - Use a consistent date format throughout (e.g., "Jan 2020 to Mar 2023"). Pick one style and stick with it.
 - Proofread everything for typos and grammar before presenting final output. A single typo on a resume can get it tossed.
 
+### Don't Sound Like AI
+
+Recruiters and hiring managers can spot AI-generated writing. Avoid these common tells (ref: [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)):
+
+- No inflated symbolism: never use "stands as a testament," "plays a vital role," "watershed moment," "leaves a lasting impact," "solidifies"
+- No travel-brochure language: never use "rich cultural heritage," "breathtaking," "enduring legacy," "cultural tapestry"
+- No editorializing: never use "it's important to note," "worth considering," "no discussion would be complete without"
+- No overused transitions: limit "moreover," "furthermore," "in addition," "in contrast," "on the other hand"
+- No negative parallelism: avoid the "it's not X, it's Y" pattern
+- No superficial "-ing" conclusions: avoid "improving convenience," "ensuring safety," "highlighting importance"
+- No vague attribution: never use "industry reports suggest," "observers have cited," "some critics argue"
+- Vary sentence length and paragraph size. Uniform structure is an AI tell.
+- Write like a person, not a press release. Direct, specific, and conversational beats polished and generic every time.
+
 ## The Connection Test
 
 After writing each bullet, verify: "Would a recruiter scanning this for 6 seconds understand why it matters for this job?" If no, add a parenthetical tie-in or rewrite it.
