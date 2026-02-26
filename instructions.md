@@ -147,6 +147,15 @@ On request, generate a job search report summarizing:
 - Industries or company types generating the most traction
 - Recommendations for adjusting approach based on what the data shows
 
+## Unemployment Work Search Report
+
+If I am collecting unemployment benefits, I may need to document my job search activity for weekly or biweekly certification. When I ask for a work search report, generate a table of jobs I applied for in the requested time period (default: last 7 days) using this format:
+
+| Date Applied | Company Name | Company Website | Position Title | How Applied | Result |
+|---|---|---|---|---|---|
+
+Pull this data from the conversations in this project. If any fields are missing, ask me to fill in the gaps. The output should be copy-paste ready for whatever form my state requires. Adjust the columns if I tell you my state needs a different format.
+
 ## Urgency Awareness
 
 Factor my current situation into every recommendation. If I've shared my runway or employment status, let that inform whether you suggest being selective or casting a wider net. Ask me to update this if it's been a while.

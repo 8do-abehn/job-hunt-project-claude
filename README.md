@@ -25,7 +25,7 @@ Don't write this in AI first. Just start writing in your own words.
 
 Give it as much detail as you can remember. Include the good, the bad, and the ugly. The messy parts are actually the most useful: they help AI assess fit honestly, flag potential problem areas early, and coach you through tough interview questions without getting caught off guard.
 
-Write it in whatever format works for you. A Word doc, plain text, bullet points, stream of consciousness. Share as much or as little as you're comfortable with. This is only being shared with AI, not published anywhere. The more context you give, the better the output, but start wherever you are and add more over time. A template is included in `examples/` if you want prompts to get you going, but it's not required.
+Write it in whatever format works for you. A Word doc, plain text, bullet points, stream of consciousness. Share as much or as little as you're comfortable with. You're sharing this with a cloud AI service, so use the same judgment you would with any SaaS product (see the privacy note below). The more context you give, the better the output, but start wherever you are and add more over time. A template is included in `examples/` if you want prompts to get you going, but it's not required.
 
 You can always add more later and replace the file in your project as often as you want.
 
@@ -79,6 +79,17 @@ Rename the folder as the opportunity progresses. If you sync to Google Drive or 
 5. Save output to your job folder
 6. Rename the chat to `Company_RoleName` so your project stays organized
 
+### Updating Status as You Go
+
+You don't need a separate tracker. Just tell AI in the chat for that job:
+
+- "I applied for this role"
+- "I have a phone screen scheduled for Thursday"
+- "I got an interview"
+- "I was rejected"
+
+AI will update the folder stage recommendation and adjust its coaching accordingly. If you're moving to interview prep, it shifts gears. If the role closed, it prompts a debrief. Just talk to it like you would a friend helping you with your search.
+
 ### Things You Can Ask AI to Do
 
 - **Evaluate fit** - "Is this role worth my time?"
@@ -88,6 +99,7 @@ Rename the folder as the opportunity progresses. If you sync to Google Drive or 
 - **Application help** - "Help me answer these application questions"
 - **Debrief** - "The role closed, here's what happened" (captures lessons learned)
 - **Reporting** - "Give me a report on everything in this project so far"
+- **Unemployment work search** - "Give me my work search report for this week" (generates a table of applications for state unemployment certification)
 - **Self-improvement** - "Re-evaluate my instructions based on previous conversations"
   - Should I update my resume baseline?
   - Are my cover letters landing?
@@ -133,6 +145,19 @@ Because every opportunity follows the same structure, AI can generate reports on
 
 This turns gut feelings into concrete data.
 
+### Unemployment Work Search Reports
+
+If you're collecting unemployment benefits, most states require you to document your job search activity for weekly or biweekly certification. Instead of tracking this separately, just ask AI to generate a work search report for the last 7 days. It pulls from your conversations in the project and outputs a table like:
+
+| Date Applied | Company Name | Company Website | Position Title | How Applied | Result |
+|---|---|---|---|---|---|
+
+Copy-paste ready for whatever form your state needs. If your state requires different columns, just tell AI and it will adjust the format.
+
+## A Note on Privacy
+
+You are sharing your career history and personal details with a cloud AI service. Treat it the same way you would any cloud SaaS product. The data lives on their servers and is subject to their privacy policies. Don't share anything you wouldn't be comfortable putting in a Google Doc or Dropbox. Most AI providers have data handling policies you can review, and some offer options to opt out of training. Read the fine print for whichever service you use.
+
 ## Getting Better Over Time
 
 The whole system improves as you use it:
@@ -143,7 +168,7 @@ The whole system improves as you use it:
 - AI memory fills in with your patterns and feedback
 - Debrief data accumulates into actionable insights
 
-Replace your seed documents in the project whenever they've meaningfully improved. The instructions, resume, cover letter, and career history are all living documents.
+All of your seed documents can be replaced at any time. As you go through the process, you'll land on resume formats you prefer, cover letter styles that feel right, and career history details you want to add or refine. Swap them out in the project whenever a newer version is better. These are living documents, not one-time uploads. The instructions themselves will evolve too as you figure out what works for your search.
 
 ## Files in This Repo
 
