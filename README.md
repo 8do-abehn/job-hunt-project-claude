@@ -271,11 +271,11 @@ This approach was inspired by [Mischa van den Burg's KubeCraft](https://mischava
 
 ## A Note on AI-Generated Writing
 
-AI has recognizable writing patterns. Recruiters and hiring managers are increasingly aware of them. If your resume and cover letter read like they were written by a chatbot, that's not a good look.
+AI has recognizable writing patterns, and recruiters are increasingly aware of them. If your resume reads like a chatbot wrote it, that undermines everything this system is trying to do. You want to have your flair. People want to hire you, not a robot. This is a tool to help with the heavy lifting, not to replace your voice.
 
-The project instructions include specific rules to avoid common AI tells: inflated language, overused transitions, uniform sentence structure, and the kind of polished-but-generic tone that screams "I didn't write this." But instructions only go so far. You still need to read every output and make sure it sounds like you, not a press release.
+The project instructions include specific rules to avoid common AI tells: inflated language, overused transitions, uniform sentence structure, and the kind of polished-but-generic tone that screams "I didn't write this." But instructions only go so far. You still need to read every output and make sure it sounds like you.
 
-For a detailed reference on what to watch for, see [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). It's worth reading once and keeping in mind as you review AI output. The instructions in this project already incorporate the key points, but knowing what to look for yourself makes you a better editor of your own materials.
+For a detailed reference on what to watch for, see [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) (h/t Tim Braun for surfacing this). It's worth reading once and keeping in mind as you review AI output. The instructions in this project already incorporate the key points, but knowing what to look for yourself makes you a better editor of your own materials.
 
 ## Files in This Repo
 
@@ -286,3 +286,7 @@ For a detailed reference on what to watch for, see [Wikipedia: Signs of AI Writi
 | `examples/resume-template.md` | Resume template (only if you don't have one yet) |
 | `examples/cover-letter-template.md` | Cover letter template (only if you don't have one yet) |
 | `examples/career-history-template.md` | Career history template with prompts to get you started |
+
+---
+
+One last thing: actually read the instructions before you use them. Remove stuff. Add stuff. See what it does. I built all of this iteratively as I went through my own job search, so I could see the impact of each change in real time. If you just copy-paste it blindly, you're trusting a stranger's workflow without understanding why any of it is there. Make it yours. Good luck.
