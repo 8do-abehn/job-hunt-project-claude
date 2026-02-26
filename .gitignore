@@ -1,0 +1,12 @@
+# Personal files (don't commit your actual resume/history)
+*.pdf
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
