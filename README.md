@@ -8,6 +8,10 @@ Instead of starting from scratch every time you apply for a job, you seed an AI 
 
 Over time the project becomes a living record of your entire job search with built-in reporting and pattern recognition.
 
+## The Philosophy
+
+Your goal is to get interviews. Not every interview will be for your dream job, and that's the point. Every interview you go through makes you sharper, more confident, and better prepared. Your debriefs get richer. Your answers get tighter. Your ability to read a room improves. This system captures all of that progress so that when the role you really, really want comes along, you're not walking in cold. You're walking in with reps.
+
 ## What You Need to Get Started
 
 Four documents seed your project:
