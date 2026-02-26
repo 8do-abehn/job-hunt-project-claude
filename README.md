@@ -107,6 +107,17 @@ AI will update the folder stage recommendation and adjust its coaching according
   - Should I lean into something or change my approach?
 - **Situation check** - "What's my current situation and how should that affect my strategy?"
 
+### Watching Company Career Pages with Change Detection
+
+If there are companies you'd love to work for but they don't have the right opening yet, don't just check their careers page every week. Use a change detection tool like [changedetection.io](https://changedetection.io) to monitor their job pages automatically. When a new role gets posted, you get notified.
+
+This pairs well with the project workflow: when a notification fires, drop the new posting into a chat and run through the normal fit/tailor cycle. You're first in line instead of finding it two weeks late on a job board.
+
+Tips for setting up career page monitors:
+- Point them at the company's careers or jobs page, not the homepage
+- Filter for keywords relevant to your target roles so you don't get noise from every new posting
+- Consider a separate Claude Project where AI acts as a changedetection.io expert to help you tune your filters and selectors
+
 ### The Urgency Factor
 
 Your search strategy should reflect your runway. Tell AI your situation and update it as things change:
