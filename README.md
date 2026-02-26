@@ -202,7 +202,7 @@ All of your seed documents can be replaced at any time. As you go through the pr
 
 ## Tools That Pair Well With This System
 
-- **[job-scout](https://github.com/8do-abehn/job-scout)** - An MCP server that searches job listings directly from Claude. Search from within your conversation and pipe results straight into fit assessment without switching between job boards.
+- **[job-scout](https://github.com/8do-abehn/job-scout)** - A self-hosted job search tool that scrapes multiple job boards (Indeed, LinkedIn, Glassdoor, ZipRecruiter, USAJOBS), tracks applications via GitHub Issues, and includes an MCP server for searching directly from Claude. Note: this repo was recently anonymized by AI and the setup instructions have not yet been fully verified from scratch. If you run into issues, open an issue on the repo.
 - **Claude Code Chrome extension** - Read job descriptions and company info directly from career pages during research and interview prep. AI can see the page you're looking at and work with it in context.
 - **[changedetection.io](https://changedetection.io)** - Monitor career pages at companies you want to work for. Get notified when new roles appear so you're first in line instead of finding it weeks later on a job board.
 
