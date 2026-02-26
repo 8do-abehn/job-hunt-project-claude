@@ -256,6 +256,8 @@ Here's the workflow:
 
 The result: you walk into an interview and can talk about the technology from experience, not theory. "I set up a three-node Kubernetes cluster in my homelab and deployed a monitoring stack" is a fundamentally different answer than "I've read about Kubernetes."
 
+Even better: if your homelab projects live in a public GitHub repo, the interview dynamic changes entirely. It stops being hard questions to prove yourself and turns into show and tell. Point interviewers to your repo, walk them through what you built, and let the work speak for itself. That's a much better conversation for everyone.
+
 This approach was inspired by [Mischa van den Burg's KubeCraft](https://mischavandenburg.com/aboutme/) teachings on self-directed technical learning. Having a homelab to practice on made all the difference for refreshing skills and building confidence before interviews.
 
 ## Resources and Inspiration
