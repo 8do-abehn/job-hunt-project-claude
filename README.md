@@ -227,7 +227,18 @@ All of your seed documents can be replaced at any time. As you go through the pr
 
 ## Filling Skills Gaps With AI-Guided Labs
 
-When the skills gap analysis shows you're missing something that keeps coming up in job postings, you don't have to just hope it doesn't come up in interviews. Create a separate AI project focused on learning that skill. Tell AI to act as an expert instructor and build you a structured lab or course. If you have a homelab, use it as the hands-on environment. AI walks you through the material at your own pace, you get real experience to talk about, and the gap stops being a gap.
+When the skills gap analysis shows you're missing something that keeps coming up in job postings, you don't have to just hope it doesn't come up in interviews. You can close the gap yourself with AI as your instructor and a homelab (or cloud sandbox) as your classroom.
+
+Here's the workflow:
+
+1. **Create a separate AI project** for the topic. Don't mix it into your job search project.
+2. **Tell AI what it is.** "You are an expert Kubernetes instructor" or "You are a Terraform course designer." Setting the role up front changes the quality of everything that follows.
+3. **Ask it to build a structured course.** Lessons, exercises, checkpoints, and verification steps. AI can design a full curriculum from beginner to practical competence.
+4. **Use your homelab as the lab environment.** VMs, containers, bare metal, whatever you have. If you don't have a homelab, a cloud free tier or local Docker setup works too. The point is hands-on practice, not just reading.
+5. **Work through it with AI as your guide.** When something breaks (and it will), troubleshoot together in real time. AI can read error messages, suggest fixes, and explain what's happening. This is where you learn the most.
+6. **Verify at each checkpoint.** Don't skip the verification steps. They catch misconfigurations early and build real confidence that you understand the material, not just copied commands.
+
+The result: you walk into an interview and can talk about the technology from experience, not theory. "I set up a three-node Kubernetes cluster in my homelab and deployed a monitoring stack" is a fundamentally different answer than "I've read about Kubernetes."
 
 This approach was inspired by [Mischa van den Burg's KubeCraft](https://mischavandenburg.com/aboutme/) teachings on self-directed technical learning. Having a homelab to practice on made all the difference for refreshing skills and building confidence before interviews.
 
