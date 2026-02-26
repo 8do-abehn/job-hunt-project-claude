@@ -33,6 +33,8 @@ Write it in whatever format works for you. A Word doc, plain text, bullet points
 
 You can always add more later and replace the file in your project as often as you want.
 
+Once you have a first draft, bring it into a chat and have AI interview you to fill in the gaps. Tell it: "You are a career development guru. Ask me questions to tease out more information for this career history document." AI will prompt you for details you forgot or didn't think to include: metrics you didn't quantify, projects you glossed over, skills you take for granted, reasons behind decisions. Go through as many rounds as you want. Each pass makes the document richer, and a richer career history means better output from every other part of the system.
+
 ### 2. Resume
 
 Your current resume, even if it needs work. This becomes the baseline that gets tailored for each application. It will evolve as you learn what's landing and what isn't. Just use whatever you already have. Templates are included in `examples/` if you're starting from scratch, but your own resume is always better as a starting point.
