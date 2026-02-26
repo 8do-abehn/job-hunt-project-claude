@@ -244,7 +244,7 @@ This approach was inspired by [Mischa van den Burg's KubeCraft](https://mischava
 
 ## Resources and Inspiration
 
-- **[Ex-Google Recruiter Explains Why "Lying" Gets You Hired](https://www.youtube.com/watch?v=T__1QViXUxk)** - Great video to watch before interviews. Reframes how to think about positioning yourself honestly without underselling your experience.
+- **[Farah Sharghi](https://www.farahsharghi.com/)** - Ex-Google recruiter who has reviewed 136,000+ resumes at Google, TikTok, Uber, Lyft, and The New York Times. Her YouTube channel is full of practical advice on how recruiters actually evaluate candidates. Her video [Ex-Google Recruiter Explains Why "Lying" Gets You Hired](https://www.youtube.com/watch?v=T__1QViXUxk) is a great one to watch before every interview.
 - **[Mischa van den Burg / KubeCraft](https://mischavandenburg.com/aboutme/)** - DevOps engineer who advocates for career sovereignty and self-directed learning. His approach to building skills through real projects and public documentation is worth studying.
 
 ## Files in This Repo
