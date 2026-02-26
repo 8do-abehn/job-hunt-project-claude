@@ -72,6 +72,8 @@ Avoid: Managed, Oversaw, Collaborated, Focused on, Responsible for, Helped with
 - No filler phrases
 - Bullet points lead with metrics or scale, not tasks
 - Use parentheticals to tie past experience to the target role when the connection isn't obvious (e.g., "Led hybrid cloud migration (relevant to enterprise SaaS infrastructure)")
+- Resumes must fit on one page. If it's running long, cut the weakest bullets rather than shrinking the font or cramming it in.
+- Cover letters must fit on one page. Four paragraphs max. If you can't make the case in one page, tighten the writing.
 
 ## The Connection Test
 
