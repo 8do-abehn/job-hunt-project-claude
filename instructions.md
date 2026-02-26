@@ -81,7 +81,7 @@ Avoid: Managed, Oversaw, Collaborated, Focused on, Responsible for, Helped with
 
 ### Don't Sound Like AI
 
-Recruiters and hiring managers can spot AI-generated writing. Avoid these common tells (ref: [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)):
+Recruiters and hiring managers can spot AI-generated writing. Avoid these common tells (ref: [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), h/t Tim Braun):
 
 - No inflated symbolism: never use "stands as a testament," "plays a vital role," "watershed moment," "leaves a lasting impact," "solidifies"
 - No travel-brochure language: never use "rich cultural heritage," "breathtaking," "enduring legacy," "cultural tapestry"

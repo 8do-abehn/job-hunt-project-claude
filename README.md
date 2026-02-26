@@ -275,7 +275,7 @@ AI has recognizable writing patterns. Recruiters and hiring managers are increas
 
 The project instructions include specific rules to avoid common AI tells: inflated language, overused transitions, uniform sentence structure, and the kind of polished-but-generic tone that screams "I didn't write this." But instructions only go so far. You still need to read every output and make sure it sounds like you, not a press release.
 
-For a detailed reference on what to watch for, see [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). It's worth reading once and keeping in mind as you review AI output. The instructions in this project already incorporate the key points, but knowing what to look for yourself makes you a better editor of your own materials.
+For a detailed reference on what to watch for, see [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) (h/t Tim Braun for surfacing this). It's worth reading once and keeping in mind as you review AI output. The instructions in this project already incorporate the key points, but knowing what to look for yourself makes you a better editor of your own materials.
 
 ## Files in This Repo
 
