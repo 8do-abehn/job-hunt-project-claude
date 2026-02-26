@@ -269,6 +269,14 @@ This approach was inspired by [Mischa van den Burg's KubeCraft](https://mischava
 - **[Farah Sharghi](https://www.farahsharghi.com/)** - Ex-Google recruiter who has reviewed 136,000+ resumes at Google, TikTok, Uber, Lyft, and The New York Times. Her YouTube channel is full of practical advice on how recruiters actually evaluate candidates. Her video [Ex-Google Recruiter Explains Why "Lying" Gets You Hired](https://www.youtube.com/watch?v=T__1QViXUxk) is a great one to watch before every interview.
 - **[Mischa van den Burg / KubeCraft](https://mischavandenburg.com/aboutme/)** - DevOps engineer who advocates for career sovereignty and self-directed learning. His approach to building skills through real projects and public documentation is worth studying.
 
+## A Note on AI-Generated Writing
+
+AI has recognizable writing patterns. Recruiters and hiring managers are increasingly aware of them. If your resume and cover letter read like they were written by a chatbot, that's not a good look.
+
+The project instructions include specific rules to avoid common AI tells: inflated language, overused transitions, uniform sentence structure, and the kind of polished-but-generic tone that screams "I didn't write this." But instructions only go so far. You still need to read every output and make sure it sounds like you, not a press release.
+
+For a detailed reference on what to watch for, see [Wikipedia: Signs of AI Writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). It's worth reading once and keeping in mind as you review AI output. The instructions in this project already incorporate the key points, but knowing what to look for yourself makes you a better editor of your own materials.
+
 ## Files in This Repo
 
 | File | Purpose |
