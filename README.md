@@ -225,6 +225,17 @@ All of your seed documents can be replaced at any time. As you go through the pr
 - **Claude Code Chrome extension** - Read job descriptions and company info directly from career pages during research and interview prep. AI can see the page you're looking at and work with it in context.
 - **[changedetection.io](https://changedetection.io)** - Monitor career pages at companies you want to work for. Get notified when new roles appear so you're first in line instead of finding it weeks later on a job board.
 
+## Filling Skills Gaps With AI-Guided Labs
+
+When the skills gap analysis shows you're missing something that keeps coming up in job postings, you don't have to just hope it doesn't come up in interviews. Create a separate AI project focused on learning that skill. Tell AI to act as an expert instructor and build you a structured lab or course. If you have a homelab, use it as the hands-on environment. AI walks you through the material at your own pace, you get real experience to talk about, and the gap stops being a gap.
+
+This approach was inspired by [Mischa van den Burg's KubeCraft](https://mischavandenburg.com/aboutme/) teachings on self-directed technical learning. Having a homelab to practice on made all the difference for refreshing skills and building confidence before interviews.
+
+## Resources and Inspiration
+
+- **[Ex-Google Recruiter Explains Why "Lying" Gets You Hired](https://www.youtube.com/watch?v=T__1QViXUxk)** - Great video to watch before interviews. Reframes how to think about positioning yourself honestly without underselling your experience.
+- **[Mischa van den Burg / KubeCraft](https://mischavandenburg.com/aboutme/)** - DevOps engineer who advocates for career sovereignty and self-directed learning. His approach to building skills through real projects and public documentation is worth studying.
+
 ## Files in This Repo
 
 | File | Purpose |

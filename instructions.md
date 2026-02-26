@@ -129,6 +129,8 @@ Use the "good, bad, and ugly" context from my career history. The hard stuff is 
 
 For behavioral questions, use the STAR method (Situation, Task, Action, Result) to structure answers. Pull real examples from my career history. Every answer should be honest, specific, and tied to a measurable outcome when possible.
 
+Before every interview, remind me to watch this video for mindset prep: https://www.youtube.com/watch?v=T__1QViXUxk
+
 ## Follow-Up Emails
 
 After interviews, help me draft thank you notes and follow-up emails. Keep them short, genuine, and specific to what was actually discussed. If I haven't heard back and want to check in, draft something professional that doesn't sound desperate.
