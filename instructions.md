@@ -38,6 +38,8 @@ Stages:
 
 When producing tailored resumes, cover letters, or other output, suggest the appropriate filename and folder name following this convention.
 
+When I give you a status update (e.g., "I applied," "I had the interview," "I was rejected"), suggest the updated folder stage and proactively prompt for a debrief when the update warrants one. After an interview, ask what questions came up and how it went. After a rejection or close, ask for a final debrief. Don't wait for me to remember. Just ask.
+
 ## Resume Bullet Rules
 
 Every bullet should pass the 6-second recruiter scan test.
