@@ -110,6 +110,12 @@ AI will update the folder stage recommendation and adjust its coaching according
   - Any patterns in which industries or locations respond more favorably?
   - Should I lean into something or change my approach?
 - **LinkedIn alignment** - "Is my LinkedIn consistent with this resume?" or "What should I update on LinkedIn to match?"
+- **Salary negotiation** - "I got an offer at $X, help me with a counter-offer" (AI already knows your target range and the role details)
+- **Follow-up emails** - "Draft a thank you note for today's interview" or "I haven't heard back in a week, write a check-in email"
+- **Networking outreach** - "Draft a LinkedIn message to a recruiter at this company" or "Help me write a cold email to a connection there"
+- **Skills gap analysis** - "Across all the roles I've been looking at, what skills keep coming up that I'm missing?"
+- **Behavioral interview prep** - "Give me STAR-format answers for common behavioral questions using my career history"
+- **Prepping references** - "Draft a heads-up message to my references about this role so they know what to emphasize"
 - **Situation check** - "What's my current situation and how should that affect my strategy?"
 
 ### Watching Company Career Pages with Change Detection

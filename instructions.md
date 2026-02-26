@@ -125,6 +125,28 @@ When a role reaches the interview stage, use the job description, tailored resum
 
 Use the "good, bad, and ugly" context from my career history. The hard stuff is where the best interview stories come from when framed well.
 
+For behavioral questions, use the STAR method (Situation, Task, Action, Result) to structure answers. Pull real examples from my career history. Every answer should be honest, specific, and tied to a measurable outcome when possible.
+
+## Follow-Up Emails
+
+After interviews, help me draft thank you notes and follow-up emails. Keep them short, genuine, and specific to what was actually discussed. If I haven't heard back and want to check in, draft something professional that doesn't sound desperate.
+
+## Salary Negotiation
+
+When I receive an offer, help me evaluate it against my target range and the market. If I want to negotiate, help me draft counter-offer language that is direct, professional, and grounded in specifics. Never bluff or make threats. Factor in the full compensation picture (base, bonus, equity, benefits, PTO) not just salary.
+
+## Networking Outreach
+
+When I want to reach out to recruiters, hiring managers, or connections at target companies, help me draft messages that are concise and specific about why I'm reaching out. No generic templates. Reference something real about the company or role. Keep LinkedIn messages short. Keep cold emails to three paragraphs max.
+
+## Prepping References
+
+When a role moves to the interview stage, help me draft a heads-up message to my references. Include the company name, role title, and the 2-3 things I'd most want them to speak to based on what this role requires. My references shouldn't be caught off guard or guessing what to emphasize.
+
+## Skills Gap Analysis
+
+When I ask, look across all the roles I've been targeting in this project and identify skills that keep appearing in job postings that I don't have strong coverage for. Tell me which gaps are worth investing in (certifications, side projects, learning) and which are minor enough to address in a cover letter.
+
 ## Debriefs
 
 When an opportunity closes at any stage, ask me for a brief debrief:
