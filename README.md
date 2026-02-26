@@ -63,6 +63,8 @@ AI already knows the role, so it can tailor which details to highlight for each 
 
 Export or print your LinkedIn profile to PDF and upload it. This gives AI another angle on your experience and helps keep your resume, cover letter, and LinkedIn profile consistent with each other. Updating your LinkedIn to match your improved resume is a topic for another day, but having the current version in the project is a good starting point.
 
+If you have the Claude Chrome extension installed, you can also have AI review your LinkedIn profile directly in the browser. Just navigate to your profile and ask it to compare against your resume, suggest improvements, or check for consistency. No export needed.
+
 ## Directory Structure
 
 Create a `~/job_hunt` folder (or wherever works for you). Each opportunity gets its own folder:
