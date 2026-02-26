@@ -109,6 +109,7 @@ AI will update the folder stage recommendation and adjust its coaching according
   - Are my cover letters landing?
   - Any patterns in which industries or locations respond more favorably?
   - Should I lean into something or change my approach?
+- **LinkedIn alignment** - "Is my LinkedIn consistent with this resume?" or "What should I update on LinkedIn to match?"
 - **Situation check** - "What's my current situation and how should that affect my strategy?"
 
 ### Watching Company Career Pages with Change Detection
