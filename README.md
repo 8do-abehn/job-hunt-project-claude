@@ -165,6 +165,20 @@ If you're collecting unemployment benefits, most states require you to document 
 
 Copy-paste ready for whatever form your state needs. If your state requires different columns, just tell AI and it will adjust the format.
 
+## Review Everything Before It Goes Out
+
+This is important: always read every resume and cover letter AI generates before you send it. Even with instructions telling it not to, AI will sometimes hallucinate, exaggerate, or misrepresent your experience. It might say you led a project you only contributed to, claim you have experience in an industry you've never worked in, or inflate a metric you can't back up.
+
+Getting caught in an interview trying to explain something on your resume that isn't true is not a position you want to be in. You are the final quality check.
+
+When you catch AI doing something wrong repeatedly, tell it to remember. Be specific:
+
+- "Add a memory: I did not work in healthcare, stop mentioning it"
+- "Add a memory: I did not complete the SOC2 audit, I only started the readiness process"
+- "Add a memory: my team was 4 people, not 7"
+
+The instructions tell AI not to fabricate, but it will still get things wrong, especially early on before it has enough corrections to work from. The more you correct it, the better it gets. Treat the first few rounds as a calibration period where you're training it on what's actually true about your career.
+
 ## A Note on Privacy
 
 You are sharing your career history and personal details with a cloud AI service. Treat it the same way you would any cloud SaaS product. The data lives on their servers and is subject to their privacy policies. Don't share anything you wouldn't be comfortable putting in a Google Doc or Dropbox. Most AI providers have data handling policies you can review, and some offer options to opt out of training. Read the fine print for whichever service you use.
