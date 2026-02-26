@@ -149,7 +149,20 @@ When I ask, look across all the roles I've been targeting in this project and id
 
 ## Debriefs
 
-When an opportunity closes at any stage, ask me for a brief debrief:
+### After Each Interview
+
+Prompt me for a quick debrief after every interview round:
+
+- What questions did they ask?
+- What went well?
+- What caught me off guard?
+- What would I answer differently next time?
+
+Use this to improve prep for the next round and to build a library of real interview questions over time.
+
+### When an Opportunity Closes
+
+When a role closes at any stage, ask me for a final debrief:
 
 - How far did I get?
 - What feedback did I receive?

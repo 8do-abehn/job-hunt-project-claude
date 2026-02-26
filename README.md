@@ -143,9 +143,20 @@ Your search strategy should reflect your runway. Tell AI your situation and upda
 
 AI should factor this into every recommendation.
 
+### Debriefing After Interviews
+
+After each interview round, tell AI what happened:
+
+- What questions did they ask?
+- What went well?
+- What caught you off guard?
+- What would you answer differently next time?
+
+AI uses this to sharpen your prep for the next round and builds a library of real interview questions over time. The more you debrief, the better your prep gets.
+
 ### Closing an Opportunity
 
-When a role closes at any stage, update the chat with a brief debrief:
+When a role closes at any stage, update the chat with a final debrief:
 
 - How far did you get?
 - What feedback did you receive?
