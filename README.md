@@ -181,6 +181,12 @@ The whole system improves as you use it:
 
 All of your seed documents can be replaced at any time. As you go through the process, you'll land on resume formats you prefer, cover letter styles that feel right, and career history details you want to add or refine. Swap them out in the project whenever a newer version is better. These are living documents, not one-time uploads. The instructions themselves will evolve too as you figure out what works for your search.
 
+## Tools That Pair Well With This System
+
+- **[job-scout](https://github.com/8do-abehn/job-scout)** - An MCP server that searches job listings directly from Claude. Search from within your conversation and pipe results straight into fit assessment without switching between job boards.
+- **Claude Code Chrome extension** - Read job descriptions and company info directly from career pages during research and interview prep. AI can see the page you're looking at and work with it in context.
+- **[changedetection.io](https://changedetection.io)** - Monitor career pages at companies you want to work for. Get notified when new roles appear so you're first in line instead of finding it weeks later on a job board.
+
 ## Files in This Repo
 
 | File | Purpose |
