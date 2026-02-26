@@ -45,6 +45,10 @@ The rules and preferences that tell AI how to show up every time. Copy the conte
 
 Having your references ready in the project saves time when things move fast.
 
+### 6. LinkedIn profile (optional)
+
+Export or print your LinkedIn profile to PDF and upload it. This gives AI another angle on your experience and helps keep your resume, cover letter, and LinkedIn profile consistent with each other. Updating your LinkedIn to match your improved resume is a topic for another day, but having the current version in the project is a good starting point.
+
 ## Directory Structure
 
 Create a `~/job_hunt` folder (or wherever works for you). Each opportunity gets its own folder:
