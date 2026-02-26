@@ -89,11 +89,15 @@ Rename the folder as the opportunity progresses. If you sync to Google Drive or 
 ### For Each New Opportunity
 
 1. Start a new chat in the project
-2. Drop in the job posting
-3. AI evaluates fit before you invest time tailoring anything
-4. If it's a go, AI tailors your resume and cover letter
-5. Save output to your job folder
-6. Rename the chat to `Company_RoleName` so your project stays organized
+2. Drop in the job posting and just ask what you need:
+   - "Is this a fit?"
+   - "Give me a resume and cover letter for this"
+   - "Is this worth my time?"
+3. AI evaluates fit and tailors your materials from what's already in the project
+4. Save output to your job folder
+5. Rename the chat to `Company_RoleName` so your project stays organized
+
+That's it. No setup per job. Just paste and ask.
 
 ### Updating Status as You Go
 
