@@ -286,3 +286,7 @@ For a detailed reference on what to watch for, see [Wikipedia: Signs of AI Writi
 | `examples/resume-template.md` | Resume template (only if you don't have one yet) |
 | `examples/cover-letter-template.md` | Cover letter template (only if you don't have one yet) |
 | `examples/career-history-template.md` | Career history template with prompts to get you started |
+
+---
+
+One last thing: actually read the instructions before you use them. Remove stuff. Add stuff. See what it does. I built all of this iteratively as I went through my own job search, so I could see the impact of each change in real time. If you just copy-paste it blindly, you're trusting a stranger's workflow without understanding why any of it is there. Make it yours. Good luck.
