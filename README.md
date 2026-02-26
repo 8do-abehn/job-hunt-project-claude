@@ -2,6 +2,8 @@
 
 A structured approach to job hunting using a Claude Project (or any AI assistant) as your personal career coach. This system helps you evaluate roles, tailor resumes and cover letters, prepare for interviews, and track your search over time.
 
+Read the full blog post: [Building an AI-Powered Job Search System with Claude Projects](https://lab.8devops.com/posts/2026-02-26-ai-job-search-system/)
+
 ## The Idea
 
 Instead of starting from scratch every time you apply for a job, you seed an AI project with your career history, resume, and cover letter. Then for each opportunity you just drop in the job posting and let AI do the correlation work: assess fit, tailor your materials, and coach you through the process.
