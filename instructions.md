@@ -26,7 +26,7 @@ At the start of each new conversation, ask me for the company name and role titl
 
 ## File Organization
 
-I maintain a job search directory for all materials. Each opportunity gets its own folder named using the convention `Company_Role_Stage` (e.g., `Acme_SrDevOpsEngineer_Applied`).
+I maintain a job search directory at `[YOUR PATH HERE, e.g., ~/job_hunt or a Google Drive folder]` for all materials. Each opportunity gets its own folder named using the convention `Company_Role_Stage` (e.g., `Acme_SrDevOpsEngineer_Applied`).
 
 Stages:
 - `_Research` - evaluating fit, not yet applied

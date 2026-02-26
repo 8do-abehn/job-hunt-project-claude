@@ -67,7 +67,7 @@ If you have the Claude Chrome extension installed, you can also have AI review y
 
 ## Directory Structure
 
-Create a `~/job_hunt` folder (or wherever works for you). Each opportunity gets its own folder:
+Create a `~/job_hunt` folder (or wherever works for you). Each opportunity gets its own folder. Make sure to update the path in `instructions.md` so AI knows where your files live and can suggest correct folder names when you save output.
 
 ```
 ~/job_hunt/
