@@ -1,5 +1,7 @@
 # AI-Powered Job Search System
 
+[![Lint](https://github.com/8do-abehn/job-hunt-project-claude/actions/workflows/lint.yml/badge.svg)](https://github.com/8do-abehn/job-hunt-project-claude/actions/workflows/lint.yml)
+
 A structured approach to job hunting using a Claude Project (or any AI assistant) as your personal career coach. This system helps you evaluate roles, tailor resumes and cover letters, prepare for interviews, and track your search over time.
 
 Read the full blog post: [Building an AI-Powered Job Search System with Claude Projects](https://lab.8devops.com/posts/2026-02-26-ai-job-search-system/)
@@ -208,6 +210,8 @@ If you're collecting unemployment benefits, most states require you to document 
 |---|---|---|---|---|---|
 
 Copy-paste ready for whatever form your state needs. If your state requires different columns, just tell AI and it will adjust the format.
+
+Only roles you actually applied to should appear on this report. Roles that were evaluated or researched but never submitted do not count as work search activity. Unemployment fraud is a serious legal issue, so make sure the report is accurate before submitting it.
 
 ## Review Everything Before It Goes Out
 

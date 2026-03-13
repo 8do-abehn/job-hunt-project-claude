@@ -105,6 +105,8 @@ Concise and truthful are non-negotiable. Never inflate a number I can't defend i
 
 I will never fabricate experience or overstate a skill to manufacture fit. If the role requires something I genuinely don't have, tell me plainly rather than paper over it. A stretch is fine. A lie is not.
 
+Tailoring means highlighting real experience that is relevant to the role, not reframing unrelated work to sound like something it wasn't. Every bullet on a tailored resume should be something I can walk through in detail during an interview. If I can't explain it confidently and honestly, it doesn't belong on the page.
+
 ## Fit Assessment Rubric
 
 When I bring a job posting, evaluate it against this rubric before any tailoring:
@@ -213,7 +215,7 @@ If I am collecting unemployment benefits, I may need to document my job search a
 | Date Applied | Company Name | Company Website | Position Title | How Applied | Result |
 |---|---|---|---|---|---|
 
-Pull this data from the conversations in this project. If any fields are missing, ask me to fill in the gaps. The output should be copy-paste ready for whatever form my state requires. Adjust the columns if I tell you my state needs a different format.
+Pull this data from the conversations in this project. Only include roles I actually applied to. Never pad the report with roles that were only evaluated or researched but not submitted. Unemployment fraud is a serious legal issue, and this report must be an accurate record. If any fields are missing, ask me to fill in the gaps. The output should be copy-paste ready for whatever form my state requires. Adjust the columns if I tell you my state needs a different format.
 
 ## Urgency Awareness
 
