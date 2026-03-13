@@ -4,21 +4,7 @@
     "MD013": false,
     // Allow inline HTML (badges use img tags)
     "MD033": false,
-    // Allow duplicate headings (templates reuse section names)
-    "MD024": false,
-    // Allow trailing punctuation in headings
-    "MD026": false,
     // Allow multiple top-level headings (templates have their own H1)
-    "MD025": false,
-    // Allow bold text as pseudo-headings in templates
-    "MD036": false,
-    // Relaxed blank lines around lists (prose-heavy docs)
-    "MD032": false,
-    // Allow bare URLs in instructions (YouTube links etc)
-    "MD034": false,
-    // Relaxed table alignment (separator rows don't need to match)
-    "MD060": false,
-    // Allow code fences without language specifier
-    "MD040": false
+    "MD025": false
   }
 }

@@ -71,7 +71,7 @@ If you have the Claude Chrome extension installed, you can also have AI review y
 
 Create a `~/job_hunt` folder (or wherever works for you). Each opportunity gets its own folder. Make sure to update the path in `instructions.md` so AI knows where your files live and can suggest correct folder names when you save output.
 
-```
+```text
 ~/job_hunt/
   Acme_SrDevOpsEngineer_Research/
   BigCo_DevOpsLead_Applied/
@@ -81,6 +81,7 @@ Create a `~/job_hunt` folder (or wherever works for you). Each opportunity gets 
 Naming convention: `Company_Role_Stage`
 
 Stages:
+
 - `_Research` - evaluating fit, not yet applied
 - `_Applied` - submitted
 - `_PhoneScreen` - recruiter call scheduled or completed
@@ -147,6 +148,7 @@ If there are companies you'd love to work for but they don't have the right open
 This pairs well with the project workflow: when a notification fires, drop the new posting into a chat and run through the normal fit/tailor cycle. You're first in line instead of finding it two weeks late on a job board.
 
 Tips for setting up career page monitors:
+
 - Point them at the company's careers or jobs page, not the homepage
 - Filter for keywords relevant to your target roles so you don't get noise from every new posting
 - Consider a separate Claude Project where AI acts as a changedetection.io expert to help you tune your filters and selectors
@@ -156,7 +158,7 @@ Tips for setting up career page monitors:
 Your search strategy should reflect your runway. Tell AI your situation and update it as things change:
 
 | Situation | Approach |
-|-----------|----------|
+| --- | --- |
 | Still employed, exploring | Be selective, optimize for fit |
 | Job ending in 6 months | Strategic and targeted |
 | On furlough, 3 months runway | Broaden scope, increase volume |
@@ -207,7 +209,7 @@ The more detail you capture along the way (debriefs, status updates, interview n
 If you're collecting unemployment benefits, most states require you to document your job search activity for weekly or biweekly certification. Instead of tracking this separately, just ask AI to generate a work search report for the last 7 days. It pulls from your conversations in the project and outputs a table like:
 
 | Date Applied | Company Name | Company Website | Position Title | How Applied | Result |
-|---|---|---|---|---|---|
+| ------------ | ------------ | --------------- | -------------- | ----------- | ------ |
 
 Copy-paste ready for whatever form your state needs. If your state requires different columns, just tell AI and it will adjust the format.
 
@@ -284,7 +286,7 @@ For a detailed reference on what to watch for, see [Wikipedia: Signs of AI Writi
 ## Files in This Repo
 
 | File | Purpose |
-|------|---------|
+| --- | --- |
 | `README.md` | This guide |
 | `instructions.md` | Claude project instructions (paste into your AI project) |
 | `examples/resume-template.md` | Resume template (only if you don't have one yet) |

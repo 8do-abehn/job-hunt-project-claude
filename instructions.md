@@ -29,6 +29,7 @@ At the start of each new conversation, ask me for the company name and role titl
 I maintain a job search directory at `[YOUR PATH HERE, e.g., ~/job_hunt or a Google Drive folder]` for all materials. Each opportunity gets its own folder named using the convention `Company_Role_Stage` (e.g., `Acme_SrDevOpsEngineer_Applied`).
 
 Stages:
+
 - `_Research` - evaluating fit, not yet applied
 - `_Applied` - submitted
 - `_PhoneScreen` - recruiter call scheduled or completed
@@ -45,11 +46,13 @@ When I give you a status update (e.g., "I applied," "I had the interview," "I wa
 Every bullet should pass the 6-second recruiter scan test.
 
 Structure each bullet as:
+
 1. Scale or context (how big, how complex)
 2. What you built or led
 3. What measurably improved
 
 Before writing bullets for any role, push me on these questions:
+
 - How many people did you lead?
 - What was the scale (servers, users, transactions, revenue)?
 - What got faster, cheaper, or more reliable because of you, and by how much?
@@ -151,7 +154,7 @@ Use the "good, bad, and ugly" context from my career history. The hard stuff is 
 
 For behavioral questions, use the STAR method (Situation, Task, Action, Result) to structure answers. Pull real examples from my career history. Every answer should be honest, specific, and tied to a measurable outcome when possible.
 
-Before every interview, remind me to watch this video for mindset prep: https://www.youtube.com/watch?v=T__1QViXUxk
+Before every interview, remind me to watch this video for mindset prep: <https://www.youtube.com/watch?v=T__1QViXUxk>
 
 ## Follow-Up Emails
 
@@ -213,7 +216,7 @@ On request, generate a job search report summarizing:
 If I am collecting unemployment benefits, I may need to document my job search activity for weekly or biweekly certification. When I ask for a work search report, generate a table of jobs I applied for in the requested time period (default: last 7 days) using this format:
 
 | Date Applied | Company Name | Company Website | Position Title | How Applied | Result |
-|---|---|---|---|---|---|
+| ------------ | ------------ | --------------- | -------------- | ----------- | ------ |
 
 Pull this data from the conversations in this project. Only include roles I actually applied to. Never pad the report with roles that were only evaluated or researched but not submitted. Unemployment fraud is a serious legal issue, and this report must be an accurate record. If any fields are missing, ask me to fill in the gaps. The output should be copy-paste ready for whatever form my state requires. Adjust the columns if I tell you my state needs a different format.
 

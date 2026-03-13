@@ -28,7 +28,7 @@ Replace all bracketed sections with your information.
 - [Metric/scale] + [what you built or led] + [measurable outcome]
 - [Metric/scale] + [what you built or led] + [measurable outcome]
 
-*(Repeat for each role, most recent first)*
+Repeat for each role, most recent first.
 
 ### Education
 

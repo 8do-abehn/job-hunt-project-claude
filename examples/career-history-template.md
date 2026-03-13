@@ -52,7 +52,7 @@ Include the good, the bad, and the ugly. Difficult chapters often tell the most 
 
 ---
 
-*(Copy this section for each role in your history, going back as far as relevant.)*
+Copy this section for each role in your history, going back as far as relevant.
 
 ## General Notes
 
