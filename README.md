@@ -1,6 +1,7 @@
 # AI-Powered Job Search System
 
 [![Lint](https://github.com/8do-abehn/job-hunt-project-claude/actions/workflows/lint.yml/badge.svg)](https://github.com/8do-abehn/job-hunt-project-claude/actions/workflows/lint.yml)
+[![Protected by Gitleaks](https://img.shields.io/badge/protected%20by-gitleaks-blue)](https://github.com/gitleaks/gitleaks)
 
 A structured approach to job hunting using a Claude Project (or any AI assistant) as your personal career coach. This system helps you evaluate roles, tailor resumes and cover letters, prepare for interviews, and track your search over time.
 
